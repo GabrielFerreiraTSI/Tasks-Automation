@@ -11,7 +11,7 @@
 
 Para implementar este sistema sem erros, você precisará abrir a ferramenta 'mouseInfo', abra o terminal de seu computador ou o do VS Code e digite python, em seguida faça a importação do mouseInfo digitando 'from mouseinfo import mouseInfo', depois da importação, no mesmo terminal digite mouseInfo() para chamar o método. Pronto! Você já tem a ferramenta para te auxiliar matematicamente nas coordenadas de seu mouse. À medida que você vai arrastando o seu mouse, a ferramenta vai calculando a posição do cursor.
 
-Observe que, na interface do mouseInfo, há uma folha de registros em branco personalizada, nela é possível listar e apaagar os registros das coordenadas. Mova o seu mouse em direção aos pontos e pressione 'F6' em cada um dos pontos, para registrar as coordenadas e as incluir no programa python. Isto irá determinar o que a máquina irá fazer de modo a cumprir a essa tarefa, do início ao fim de acordo com a sua folha de código. Bons estudos!
+Observe que, na interface do mouseInfo, há uma folha de registros em branco personalizada, nela é possível listar e apagar os registros das coordenadas. Mova o seu mouse em direção aos pontos e pressione 'F6' em cada um dos pontos, para registrar as coordenadas e as incluir no programa python. Isto irá determinar o que a máquina irá fazer de modo a cumprir a essa tarefa, do início ao fim de acordo com a sua folha de código. Bons estudos!
 
 Importante: Baixe todos os arquivos!
 
