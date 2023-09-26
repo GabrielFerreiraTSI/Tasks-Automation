@@ -13,7 +13,7 @@ Para implementar este sistema sem erros, você precisará abrir a ferramenta 'mo
 
 Observe que, na interface do mouseInfo, há uma folha de registros em branco personalizada, nela é possível listar e apagar os registros das coordenadas. Mova o seu mouse em direção aos pontos e pressione 'F6' em cada um dos pontos, para registrar as coordenadas e as incluir no programa python. Isto irá determinar o que a máquina irá fazer de modo a cumprir a essa tarefa, do início ao fim de acordo com a sua folha de código. Bons estudos!
 
-Importante: Baixe todos os arquivos!
+Importante: Baixe todos os arquivos! Aviso! Estabeleça as coordenadas com eficiência, pois quando o programa for executado, você não poderá controlar o seu mouse até que o programa termine de ser executado. Para testes mais eficientes, chame o método sleep() em cada linha depois do método click(), e dentro dos parênteses, defina o número de segundos para que a automação seja pausada liberando o controle temporário do seu mouse de acordo com o valor definido. Assim você terá tempo suficiente para cancelar a execução do programa, dependendo de quantos segundos você definir.
 
 
 ## Important instructions
@@ -27,4 +27,4 @@ To implement this system without errors, you will need to open the 'mouseInfo' t
 
 Note that, in the mouseInfo interface, there is a personalized blank record sheet, where you can list and delete coordinate records. Move your mouse towards the points and press 'F6' at each point to record the coordinates and include them in the python program. This will determine what the machine will do to accomplish that task, from start to finish according to its code sheet. Happy studying!
 
-Important: Download all files!
+Important: Download all files! Warning! Establish the coordinates efficiently because once the program runs, you will not be able to control your mouse until the program finishes running. For more efficient tests, call the sleep() method on each line after the click() method, and within the parentheses, define the number of seconds for the automation to be paused, releasing temporary control of your mouse according to the defined value . This way you will have enough time to cancel the program execution, depending on how many seconds you set.
